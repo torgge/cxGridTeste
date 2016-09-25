@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/24 23:47:20.000.709,=C:\Users\torgg\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/25 11:02:02.000.142,C:\Users\torgg\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\torgg\Documents\GitProjects\cxGridTeste\uMain.dfm</Transaction>
+    <Transaction>2016/09/25 11:02:02.000.142,C:\Users\torgg\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\torgg\Documents\GitProjects\cxGridTeste\uMain.pas</Transaction>
+    <Transaction>2016/09/25 11:06:02.000.065,C:\Users\torgg\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\torgg\Documents\GitProjects\cxGridTeste\testeGrid.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
